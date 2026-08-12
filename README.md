@@ -26,7 +26,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- 👨‍💻 Soy **Ing. Marcelo Garcete**, desarrollador de software de **Paraguay**.
+- 👨‍💻 Soy **Ingeniero Informático**, desarrollador de software de **Paraguay**.
 - 💻 Me interesa el desarrollo de **sistemas y Cibersecurity**
 - 💻 Actualmente estoy desarrollando skills en purple team.
 - 🌐 También trabajo con **HTML, CSS y JavaScript**.
