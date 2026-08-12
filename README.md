@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&height=100&lines=Desarrollador+de+Software;Java+%7C+Swing+%7C+Maven;MySQL+%7C+PostgreSQL;Creando+soluciones+tecnológicas;Siempre+aprendiendo+nuevas+cosas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&height=100&lines=Desarrollador+de+Software;Java+%7C+Cibersecurity+%7C+Purple+team;MySQL+%7C+PHPMYADMIN;Creando+soluciones+tecnológicas;Siempre+aprendiendo+nuevas+cosas">
   </a>
 </p>
 
